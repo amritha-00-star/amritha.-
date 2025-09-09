@@ -38,9 +38,7 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrethah&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+![Amritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritha-00-star&show_icons=true&theme=radical)
 
 ---
 
