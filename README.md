@@ -15,8 +15,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 **Languages:** Python 🐍 | JavaScript 🌐  
-- 📘 Currently learning: Data Structures & Algorithms, AI-ML basics  
+- 💻 **Languages:** Python 🐍 | 
+- 📘 Currently learning: AI-ML basics  
 - 🔍 Exploring: How **Biology meets AI**  
 
 <img align="center" alt="dna gif" width="200" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">  
@@ -25,8 +25,7 @@
 
 ## 🌱 Currently Working On
 - Strengthening Python coding skills  
-- Understanding AI-ML fundamentals  
-- Building small projects to get hands-on experience  
+- Understanding AI-ML fundamentals 
 
 ---
 
