@@ -64,5 +64,11 @@
 <img align="center" alt="ai gif" width="250" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">  
 
 ---
+## 🌐 Languages Known  
+
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="python" width="50" height="50"/>  
+</p>
 
 ⭐️ _"Still at the beginning, but every line of code is a step ahead!"_
