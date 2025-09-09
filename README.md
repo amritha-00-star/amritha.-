@@ -64,7 +64,7 @@
 <img align="center" alt="ai gif" width="250" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">  
 
 ---
-## 🌐 Languages Known  
+## 🖥️ Languages Known  
 
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
