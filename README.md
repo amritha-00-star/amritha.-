@@ -59,8 +59,7 @@
 
 ---
 
-## 💡 Fun Stickers & GIFs
-🌸 🐍 🤖 🧬 🌱 🚀 ✨ 🌐  
+## 🌸 🐍 🤖 🧬 🌱 🚀 ✨ 🌐  
 
 <img align="center" alt="ai gif" width="250" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">  
 
